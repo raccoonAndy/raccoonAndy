@@ -1,8 +1,10 @@
 <h1>Hi everyone, I'm Ksusha! <img src="https://user-images.githubusercontent.com/5080574/182417516-4288dece-7b78-445d-93b1-7e3dd3a65a2d.gif" width="32px"></h1>
 
-Frontend Developer 🐾 with over 8 years of experience with strong knowledge of HTML, CSS and JavaScript. I am experienced in building React-based apps, but also interested in Vue.js and Typescript as well.
+Frontend Developer 🐾 with over 8 years of experience with strong knowledge of HTML, CSS and JavaScript.
 
-My passion is transforming static design into visually attractive and highly intuitive user interfaces. I’m big on animation and micro-interactions. I took a UX/UI course from a highly reputable and internationally facing British Higher School of Art and Design, thanks to which I can easily find a common language with interface designers.
+My passion is transforming static design into visually attractive and highly intuitive user interfaces 🤓 I’m big on animation and micro-interactions.
+
+Also I took a UX/UI course from a highly reputable and internationally facing British Higher School of Art and Design 🎨, thanks to which I can easily find a common language with interface designers.
 
 Furthermore, I'm interested in playing "Animal Crossing" 🐱, watching an anime 👀 and going to exhibitions 👨🏻‍🎨
 
