@@ -8,7 +8,7 @@ Furthermore, I'm interested in playing "Animal Crossing" 🐱, watching an anime
 
 ```typescript
 const type KseniiaDeniakova = {
-  pronouns: "he" | "his";
+  pronouns: "she" | "her";
   code: "Javascript" | "Typescript" | "HTML" | "CSS";
   tools: "React" | "Redux" | "Node" | "Jest" | "SCSS" | "Webpack";
   hobbies: "Travel" | "Art";
