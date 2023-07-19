@@ -6,7 +6,7 @@
 
 🎓 I have also successfully completed a UX/UI course at the British Higher School of Art and Design, which has given me the ability to communicate and collaborate effectively with interface designers.
 
-📚 Moreover, I've been actively learning iOS development for the last year, and I already have my own app on the AppStore: [Hizo: Habit Tracker & Todo](https://apps.apple.com/app/id1668034074). Please don't hesitate to reach out and let me know what you think.
+📚 Moreover, I've been actively learning iOS development for the last year, and I already have my own app on the AppStore: [Hizo: Habit Tracker & Todo](https://hizo.me/). Please don't hesitate to reach out and let me know what you think.
 
 🐳 In my spare time, you'll often find me immersed in books, playing Animal Crossing, or walking through beautiful places.
 
