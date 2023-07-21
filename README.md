@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Ksusha! <img src="https://user-images.githubusercontent.com/5080574/182417516-4288dece-7b78-445d-93b1-7e3dd3a65a2d.gif" width="32px"></h1>
 
-🐾 I have 10 years of engineering experience, specializing in web development. My skill set includes expertise in HTML/CSS, Javascript, design, and animation.
+🐾 I have 10 years of engineering experience, specializing in web development. My skill set includes: HTML/CSS, Javascript, design, and animation.
 
 🫶 I love taking static designs and turning them into visually appealing and highly intuitive UIs. I enjoy integrating animations and micro-interactions to enhance the user experience. Feel free to check out my experiments on my [Codepen](https://codepen.io/kotAndy).
 
