@@ -13,8 +13,7 @@
 ```typescript
 const KseniiaDeniakova: Person = {
   pronouns: [ "she",  "her" ],
-  code: [ "JS",  "Typescript", "HTML", "CSS", "Swift" ],
-  tools: [ "React", "Redux", "Node", "Jest", "SCSS", "Webpack" ],
+  code: [ "Javascript",  "Typescript", "HTML", "CSS", "Swift" ],
   hobbies: [ "Travel",  "Art", "Books", "Anime" ]
 }
 ```
