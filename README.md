@@ -20,5 +20,4 @@ const Kseniia_Deniakova: Person = {
 
 [![CV-kotAndy-#222d47](https://user-images.githubusercontent.com/5080574/182424687-fb74afe1-398c-4bdb-b39a-d59cbe24ba23.svg)](https://kotandy.pro/projects/cv/)
 [![instagram-raccontend-#E4405F](https://user-images.githubusercontent.com/5080574/182424677-1316fff3-b371-4d79-924c-88d17e9e1274.svg)](https://www.instagram.com/raccoontend/)
-[![twitter-raccoontend-#1DA1F2](https://user-images.githubusercontent.com/5080574/182425194-0f5b22bb-3f0c-4507-a4d3-46f481ec7e3c.svg)](https://twitter.com/raccoontend)
 [![github](https://img.shields.io/github/followers/raccoonAndy?label=follow&logo=github)](https://github.com/raccoonAndy)
